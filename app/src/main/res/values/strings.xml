@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">portfolio</string>
+    <string name="full_name">Nwakusor Mitchell</string>
+    <string name="track_name">Mobile Developer</string>
+    <string name="about">I develop mobile applications.</string>
+    <string name="hobbies">Video gamer, content creator and dog lover</string>
+</resources>
